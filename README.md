@@ -1,2 +1,2 @@
 # tkinter
-interfaces com tkinter e Python 3
+Interfaces com tkinter e Python 3
