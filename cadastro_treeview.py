@@ -141,7 +141,7 @@ class App:
         self.btn2 = Button(self.frame,text='Atualizar',command=self.att_id)
         self.btn3 = Button(self.frame2,text='Buscar ID',command=self.pes_id)
     
-        #layout dos componentes do painel1
+        #layout dos componentes do painel3
         self.frame.grid(row=1,column=0)
         self.frame2.grid(row=0,column=0)
         self.idAtt.grid(row=0,column=1,pady=5)
