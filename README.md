@@ -7,7 +7,7 @@ Tela de cadastro
 ![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/01.jpg)
 Tela de pesquisa
 ![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/02.jpg)
-Tela de atulizar
+Tela de atualizar
 ![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/03.jpg)
 Outros
 ![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/04.jpg)
