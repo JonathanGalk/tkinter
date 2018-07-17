@@ -37,5 +37,9 @@ Bloco de notas simples para escrever, com opção de salvar e mudar a fonte
 ![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/bloc1.jpg)
 ![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/bloc2.png)
 
+# Calculadora 
+Calculadora bem simples, falta porcentagem ainda ^_^
+
+![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/calc.jpg)
 
 
