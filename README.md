@@ -12,4 +12,5 @@ Tela de atulizar
 Outros
 ![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/04.jpg)
 ![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/05.jpg)
+![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/06.jpg)
 
