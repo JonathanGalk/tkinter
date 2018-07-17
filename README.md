@@ -26,3 +26,16 @@ Tela onde mostra as bombas por alguns instantes
 Tela de game over
 
 ![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/c3.jpg)
+
+# Rabisco
+Programa simples para desenhar
+
+![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/rab.jpg)
+
+# Bloco de notas
+Bloco de notas simples para escrever, com opção de salvar e mudar a fonte
+![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/bloc1.jpg)
+![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/bloc2.png)
+
+
+
