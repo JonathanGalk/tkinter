@@ -14,3 +14,10 @@ Outros
 ![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/05.jpg)
 ![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/06.jpg)
 
+# Campo_Minado
+Tela de começo do jogo
+![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/c1.jpg)
+Tela onde mostra as bombas por alguns instantes
+![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/c3.jpg)
+Tela de game over
+![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/c3.jpg)
