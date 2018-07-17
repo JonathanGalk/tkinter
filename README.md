@@ -18,9 +18,11 @@ Outros
 Tela de começo do jogo
 
 ![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/c1.jpg)
+
 Tela onde mostra as bombas por alguns instantes
 
-![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/c3.jpg)
+![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/c2.jpg)
+
 Tela de game over
 
 ![Alt Text](https://github.com/JonathanGalk/tkinter/blob/master/imagens/c3.jpg)
