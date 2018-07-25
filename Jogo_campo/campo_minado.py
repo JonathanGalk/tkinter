@@ -1,6 +1,6 @@
 #-*-coding:utf8;-*-
 #Joguinho simples de campo minado, quando inicia o jogo ele mostra por alguns
-#instantes as localizações das bombas, cada acerto garente 1 ponto, divita-se!
+#instantes as localizações das bombas, cada acerto garente 1 ponto, divirta-se!
 
 #Importações
 from tkinter import *
